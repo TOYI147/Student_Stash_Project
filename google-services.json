@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714828488020",
+    "project_id": "student-stash-21e06",
+    "storage_bucket": "student-stash-21e06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714828488020:android:ca459e642eabf1c39b3cc1",
+        "android_client_info": {
+          "package_name": "com.example.student_stash_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714828488020-6sjrihsdvhlbcqibovqdnp976lii4uen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7rhQ-a_unwe7p-jFAc3yR1kZzxNHcWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714828488020-6sjrihsdvhlbcqibovqdnp976lii4uen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

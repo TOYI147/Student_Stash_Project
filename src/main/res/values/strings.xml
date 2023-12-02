@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Student_Stash_Project</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="log_in">Log In</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="welcome">Welcome</string>
+    <string name="student_stash">Student Stash</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="default_web_client_id">default_web_client_id</string>
+    <string name="add_expense">Add expense</string>
+    <string name="add_income">Add income</string>
+    <string name="expenses_card_description">Expenses overview and details</string>
+    <string name="income_card_description">Expenses overview and details</string>
+    <string name="back_button">Back Button</string>
+    <string name="logout">Logout</string>
+    <string name="profile_picture">Profile</string>
+
+
+</resources>
